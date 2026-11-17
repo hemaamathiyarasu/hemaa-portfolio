@@ -1,0 +1,1 @@
+Open index.html in a browser. On the site, click Resume to view the original 2-page PDF rendered directly on the same page. Use the Download full Resume button to save the original PDF. The portfolio is not yet public; review descriptions for employer confidentiality before publishing.
